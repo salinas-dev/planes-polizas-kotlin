@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">4.Plenes Polizas</string>
+    <string-array name="tipos_poliza">
+        <item>Cobertura Amplia</item>
+        <item>Daños a Terceros</item>
+    </string-array>
+    <string-array name="si_no">
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+</resources>
