@@ -1,5 +1,5 @@
 
-# APP PLANES DE POLIZAS DE SEGUROS
+# APP PLANES DE POLIZAS DE SEGUROS EN KOTLIN
 
 #### Diseño de la Interfaz Gráfica (XML):
 
